@@ -12,11 +12,18 @@ git push -u origin main
 - estoy estudiando el 8vo tetramestre en Tecmilenio On Line
 
 ### Mi proyecto 
-- Estoy trabajando n un proyecto de la escuela
+- Estoy trabajando en un proyecto de la escuela
 - Es Un sistema el cual podra controlar las citas medicas
+### Uso del Programa
 - se tendra un registro de los medicos
-- registor de pacientes
+- se podra manejar el registor de pacientes
 - y se podra agendar citas
+
+### Creditos
+- Tec Milenio ,Cecilio Eduardo Lopez
+
+### Licencia
+V1
 
 ### sistema 
 - Es un sistema que estara creado en Java en la plataforma Intellig Idea
