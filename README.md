@@ -12,7 +12,7 @@ git push -u origin main
 - estoy estudiando el 8vo tetramestre en Tecmilenio On Line
 
 ### Mi proyecto 
-- Estoy trabajando n un proyecto de la escuela
+- Estoy trabajando en un proyecto de la escuela
 - Es Un sistema el cual podra controlar las citas medicas
 - se tendra un registro de los medicos
 - registor de pacientes
