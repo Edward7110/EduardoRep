@@ -12,12 +12,13 @@ git push -u origin main
 - estoy estudiando el 8vo tetramestre en Tecmilenio On Line
 
 ### Mi proyecto 
-- Estoy trabajando n un proyecto de la escuela
-- Es Un sistema el cual podra controlar las citas medicas
-- se tendra un registro de los medicos
-- registor de pacientes
-- y se podra agendar citas
+- Estoy trabajando en un proyecto escolar
+- Es Un sistema el cual podra controlar los clientes de la empresa "Flautas la doña"
+- se tendra un registro de los clientes
+- direccion 
+- podra reportear
 
 ### sistema 
 - Es un sistema que estara creado en Java en la plataforma Intellig Idea
-- Este seria mi segundo programa que hago 
+- Este seria mi segundo programa que hago
+   
