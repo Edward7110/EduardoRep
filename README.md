@@ -14,9 +14,8 @@ git push -u origin main
 ### Mi proyecto 
 - Estoy trabajando en un proyecto escolar
 - Es Un sistema el cual podra controlar los clientes de la empresa "Flautas la doña"
-- se tendra un registro de los clientes
-- direccion 
-- podra reportear
+- Tendra un registro de los clientes
+- Podra reportear listado de clientes
 
 ### sistema 
 - Es un sistema que estara creado en Java en la plataforma Intellig Idea
