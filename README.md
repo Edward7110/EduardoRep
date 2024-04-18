@@ -40,7 +40,7 @@ Con estos resultados la propietaria de la empresa podrá tener la visión de sus
 
 ## Tabla de contenidos
 - [Requerimientos](https://github.com/Edward7110/EduardoRep/edit/Develop/README.md#requerimientos)
-- [Instalacion](https://github.com/Edward7110/EduardoRep/edit/Develop/README.md#instalacion)
+- [Instalacion](https://github.com/Edward7110/EduardoRep/tree/Develop#instalacion)
 - [Configuracion]([https://github.com/Edward7110/EduardoRep/Develop/README.md#configuracion](https://github.com/Edward7110/EduardoRep/edit/Develop/README.md#configuracion))
 - Uso
 - Contribución
