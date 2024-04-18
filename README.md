@@ -41,7 +41,10 @@ Con estos resultados la propietaria de la empresa podrá tener la visión de sus
 ## Tabla de contenidos
 - [Requerimientos](https://github.com/Edward7110/EduardoRep/edit/Develop/README.md#requerimientos)
 - [Instalacion](https://github.com/Edward7110/EduardoRep/edit/Develop/README.md#instalacion)
-- [Configuracion](https://github.com/Edward7110/EduardoRep/edit/Develop/README.md#configuracion)
+- [Configuracion]([https://github.com/Edward7110/EduardoRep/Develop/README.md#configuracion](https://github.com/Edward7110/EduardoRep/edit/Develop/README.md#configuracion))
+- Uso
+- Contribución
+- Roadmap
 
 ### Requerimientos
 - El sistema será realizado en el lenguaje de programación Java en la plataforma de programación Intellij IDE 2023.3.2,  , es necesario tener instaldo el kit de desarrollo de Java (JDK) la version de 64x "Java SE Development Kit versión 11" ,17.	Crea una cuenta en algún servicio de repositorios en línea ,por el momento no contendra alguna base de datos de SQL u otros ya que esta en fase de pruebas  para el harware se sugiere una porcesador I7 von 16 mb Ram , con un disco duro de preferencia de estado solido de 1 Tb de capacidad , para la parte de reporteos una impresora lazer M600 de HP 
@@ -79,7 +82,7 @@ Parte 3
 17.	Crea una cuenta en algún servicio de repositorios en línea. Se recomienda https://github.com/, pero puedes optar por otras alternativas como https://bitbucket.org, https://about.gitlab.com/, entre otros.
 
 
-### Configuracion
+### Configuración
 
 ### Instrucciones para la instalación y configuración de Java SE Development Kit versión 11
 
@@ -115,8 +118,55 @@ Parte 3
 
 <img width="303" alt="image" src="https://github.com/Edward7110/EduardoRep/assets/157240969/7b5941c4-002f-4018-82d3-d4b2c4430321">![image](https://github.com/Edward7110/EduardoRep/assets/157240969/718f5858-1b1f-4c8a-b788-a9ede151ebd0)
 
+### Uso
 
+1.	Abrir el sistema 
+2.	Teclear usuario y contraseña
+3.	Seleccionar una de las tres opciones 
+4.	Si seleccionas opción 1 (Alta de información de los clientes)
+5.	Se abre la pantalla de captura 
+6.	Se genera en automático el ID del cliente
+7.	Teclear nombre completo del Cliente
+8.	Teclear la Direccion
+9.	El sistema almacena los datos 
+10.	Si seleccionas opción 2 (Baja del Cliente)
+11.	Se abre la pantalla
+12.	teclear ID del Cliente a dar de baja
+13.	El sistema da de baja al cliente 
+14.	Si seleccionas opción 3 (Modificar datos cliente)
+15.	Se abre la pantalla de edicion de clientes 
+16.	Teclear ID a modificar
+17.	se introduce la informacion nueva
+18.	se guardan los cambios 
+19.	termina
 
+### Contribución
+si quieres contribuir puedes accesar a Github a la siguiente direccion:
+Acceso a GitHub:
+•	Edward7110/EduardoRep (github.com)
+•	https://github.com/Edward7110/EduardoRep
+
+el Proyecto cuenta con 3 Branches , develop como default, Master y Main
+
+![image](https://github.com/Edward7110/EduardoRep/assets/157240969/d74928b8-e897-4da6-a290-45777ab1447c)
+
+Issues: se crearon 18 Issues distribuidos en 4 Milestone de los cuales actualmente hay 13 tareas abiertas y 5 cerradas  
+
+![image](https://github.com/Edward7110/EduardoRep/assets/157240969/2f8f0118-89e8-499f-aff7-9bdb6c337db5)
+
+El proyecto cuenta con 4 Milestone que corresponden al proyecto general 
+![image](https://github.com/Edward7110/EduardoRep/assets/157240969/5975a056-e496-4d44-89e9-ca09e38e3070)
+
+Grafica de avances 
+
+![image](https://github.com/Edward7110/EduardoRep/assets/157240969/7dbc4439-c4d7-4552-a544-386d1b776513)
+
+### Roadmap
+dado que es un fase I , en un futuro y con mas tiempo se estara trabajando en la Fase , esta fase debera de contener lo siguiente:
+
+FASE II
+- se podran registrar las ventas y manejo de las ordenes de ventas
+- Podrar imprimir notas de venta y de pedidos
 
 
 
