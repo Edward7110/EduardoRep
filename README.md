@@ -39,12 +39,12 @@ Con estos resultados la propietaria de la empresa podrá tener la visión de sus
 ![image](https://github.com/Edward7110/EduardoRep/assets/157240969/8001a7dc-245c-4c1a-b214-cbcce07e9805)
 
 ## Tabla de contenidos
-- [Requerimientos](https://github.com/Edward7110/EduardoRep/edit/Develop/README.md#requerimientos)
+- [Requerimientos](https://github.com/Edward7110/EduardoRep/tree/Develop#requerimientos)
 - [Instalacion](https://github.com/Edward7110/EduardoRep/tree/Develop#instalacion)
-- [Configuracion]([https://github.com/Edward7110/EduardoRep/Develop/README.md#configuracion](https://github.com/Edward7110/EduardoRep/edit/Develop/README.md#configuracion))
-- Uso
-- Contribución
-- Roadmap
+- [Configuracion](https://github.com/Edward7110/EduardoRep/tree/Develop#configuraci%C3%B3n)
+- [Uso](https://github.com/Edward7110/EduardoRep/tree/Develop#uso)
+- [Contribución](https://github.com/Edward7110/EduardoRep/tree/Develop#contribuci%C3%B3n)
+- [Roadmap](https://github.com/Edward7110/EduardoRep/tree/Develop#roadmap)
 
 ### Requerimientos
 - El sistema será realizado en el lenguaje de programación Java en la plataforma de programación Intellij IDE 2023.3.2,  , es necesario tener instaldo el kit de desarrollo de Java (JDK) la version de 64x "Java SE Development Kit versión 11" ,17.	Crea una cuenta en algún servicio de repositorios en línea ,por el momento no contendra alguna base de datos de SQL u otros ya que esta en fase de pruebas  para el harware se sugiere una porcesador I7 von 16 mb Ram , con un disco duro de preferencia de estado solido de 1 Tb de capacidad , para la parte de reporteos una impresora lazer M600 de HP 
